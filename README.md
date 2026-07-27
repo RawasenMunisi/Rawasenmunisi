@@ -45,12 +45,6 @@ Alongside telecom work, I run Rawasen Technologies, where I design and build web
 - **Telecom tools**: TEMS Investigation, Huawei GENEX Probe
 - **Working style**: engineering discipline carried over from RF work — methodical testing, KPI-driven iteration, and attention to real-world reliability
 
-## Stats
-
-![Rawasen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RawasenMunisi&show_icons=true&count_private=true&hide_border=true&title_color=0891A8&icon_color=0891A8&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RawasenMunisi&layout=compact&hide_border=true&title_color=0891A8&text_color=FFFFFF)
-
 ---
 
 📍 Dar es Salaam, Tanzania &nbsp;|&nbsp; 🌐 [rawasenmunisi.com](https://rawasenmunisi.com) &nbsp;|&nbsp; Open to conversations about telecom, code, or the space in between.
