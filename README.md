@@ -1,4 +1,4 @@
-# Rawasen Munisi
+Rawasen Munisi![Rawasen Banner](./rawasen-github-banner.svg)
 
 RF Optimization Engineer with 8+ years of experience across GSM, WCDMA, LTE, and 5G NR networks in Africa — now expanding into software engineering.
 
