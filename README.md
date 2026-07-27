@@ -4,7 +4,7 @@ RF Optimization Engineer with 8+ years of experience across GSM, WCDMA, LTE, and
 
 I bridge telecommunications and software: drive testing and network optimization by day, building web applications and business systems on the side through Rawasen Technologies.
 
-[Portfolio](https://rawasenmunisi.com) · [LinkedIn](https://www.linkedin.com/in/rawasenmunisi/) · [Rawasen Technologies](#)
+[Portfolio](https://rawasenmunisi.com) · [LinkedIn](https://www.linkedin.com/in/rawasenmunisi/) · [Rawasen Technologies](https://voluble-mermaid-cf6360.netlify.app/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rawasen_?style=social)](https://x.com/rawasen_)
 [![GitHub followers](https://img.shields.io/github/followers/RawasenMunisi?style=social)](https://github.com/RawasenMunisi)
